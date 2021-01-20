@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build:scripts": "webpack -p",
-    "watch:scripts": "webpack --devtool eval-source-maps -w"
+    "watch:scripts": "webpack --development eval-source-maps -w"
   },
   "author": "",
   "license": "ISC",
